@@ -1,11 +1,18 @@
 <p align='center'>
-<h1> Nature Bridge</h1></p>
+<h1> Nature Bridge</h1>
+</p>
+<hr>
+
+
  <p align='center'>
 <img width="203" alt="image" src="https://user-images.githubusercontent.com/80088403/229346685-734b970c-fbde-4cb6-98f5-28eb1299605b.png">
 </p>
 <br>
 <p>
-<h2>PPT Link: https://www.canva.com/design/DAFe7_s88XY/oonVZWzxBCte6yC39PBGKA/view?utm_content=DAFe7_s88XY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink<a href="https://www.canva.com/design/DAFe7_s88XY/oonVZWzxBCte6yC39PBGKA/view?utm_content=DAFe7_s88XY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"</h2>
+ <hr>
+<h2>PPT Link<a href="https://www.canva.com/design/DAFe7_s88XY/oonVZWzxBCte6yC39PBGKA/view?utm_content=DAFe7_s88XY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"</h2>
+ <h2>Youtube Video<a href = "https://www.youtube.com/watch?v=mPmrqco0yho&t=55s"></h2>
+ 
 </p>
 <img width="960" alt="Screenshot 2023-04-02 145500" src="https://user-images.githubusercontent.com/80088403/229346283-a65f3b8c-21fa-4b7b-a91d-e423a407f53a.png">
 <br>
