@@ -10,9 +10,11 @@
 <br>
 <p>
  <hr>
-<h2>PPT Link<a href="https://www.canva.com/design/DAFe7_s88XY/oonVZWzxBCte6yC39PBGKA/view?utm_content=DAFe7_s88XY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"</h2>
- <h2>Youtube Video<a href = "https://www.youtube.com/watch?v=mPmrqco0yho&t=55s"></h2>
+<h2><a href="https://www.canva.com/design/DAFe7_s88XY/oonVZWzxBCte6yC39PBGKA/view?utm_content=DAFe7_s88XY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">PPT Link</a></h2>
+ <h2><a href = "https://www.youtube.com/watch?v=mPmrqco0yho&t=55s">Youtube Video</a></h2>
+ <hr>
  
+ ## Screenshots
 </p>
 <img width="960" alt="Screenshot 2023-04-02 145500" src="https://user-images.githubusercontent.com/80088403/229346283-a65f3b8c-21fa-4b7b-a91d-e423a407f53a.png">
 <br>
