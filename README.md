@@ -1,8 +1,8 @@
 <p align='center'>
 <h1> Nature Bridge</h1></p>
-<p>
- 
-<img width="700" alt='' src="https://user-images.githubusercontent.com/80088403/229345797-145217bd-4093-4328-8dc2-aea936032f4d.png">
+ <p align='center'>
+<img width="203" alt="image" src="https://user-images.githubusercontent.com/80088403/229346685-734b970c-fbde-4cb6-98f5-28eb1299605b.png">
+</p>
 
 <img width="960" alt="Screenshot 2023-04-02 145500" src="https://user-images.githubusercontent.com/80088403/229346283-a65f3b8c-21fa-4b7b-a91d-e423a407f53a.png">
 
